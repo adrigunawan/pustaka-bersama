@@ -1,0 +1,44 @@
+Dokumentasi pustaka-bersama
+
+-Pembeli Buku
+-Produk Buku
+
+Backend pustaka bersama
+- node js
+- express
+- body parser
+- cors
+- mysql
+
+frontend pustaka bersama
+
+- react.js
+- react native
+
+Pembeli Database
+==============
+
+id = int
+nomor_anggota = string
+nama = string
+username = string
+password = string
+created by = date
+updated by = date
+
+Produk buku database
+==================
+
+id = int
+nama_produk = string
+judul_buku = string
+halaman = string
+genre = string
+tahun = string
+penerbit = string
+pengarang = string
+isbn = string
+harga = string
+diskon = string
+created by = date
+update by = date
