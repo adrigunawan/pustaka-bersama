@@ -1,0 +1,16 @@
+User Story
+
+Register = user mendaftarkan diri di aplikasi
+                   1. Facebook.com
+                   2.  Gmail.com
+                   3. Twitter.com
+Login = user dapat memasuki aplikasi 
+                   1. Facebook.com
+                   2.  Gmail.com
+                   3. Twitter.com
+Homepage = halaman utama yang di kunjungi user
+
+BukuPage = Tampilan halaman buku dimana user bisa memilih buku yang ingin di baca
+
+Profile = user dapat mengubah nama dan password
+

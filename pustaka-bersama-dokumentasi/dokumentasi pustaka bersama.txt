@@ -1,7 +1,7 @@
 Dokumentasi pustaka-bersama
 
--Pembeli Buku
--Produk Buku
+- Pembeli Buku
+- Produk Buku
 
 Backend pustaka bersama
 - node js
@@ -42,3 +42,9 @@ harga = string
 diskon = string
 created by = date
 update by = date
+
+
+BRD = Buisness Requirement Document
+
+
+User Case
